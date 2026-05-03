@@ -14,7 +14,7 @@ Using an agent-based model built in NetLogo, I simulate how individuals respond 
 
 ## View Project 
 
-[View Project PDF](Simulating Politics and Global Affairs.pdf)
+[View Project PDF](https://github.com/Rbektas39/-Economic-Shocks-and-Civil-Rebellion-Agent-Based-Model-/blob/main/Simulating%20Politics%20and%20Global%20Affairs.pdf)
 
 ## 🔍 Research Question
 
