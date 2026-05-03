@@ -12,6 +12,10 @@ Using an agent-based model built in NetLogo, I simulate how individuals respond 
 
 ---
 
+## View Project 
+
+[View Project PDF](Simulating Politics and Global Affairs.pdf)
+
 ## 🔍 Research Question
 
 How do the **frequency and magnitude of economic shocks** affect the emergence and intensity of civil rebellion?
